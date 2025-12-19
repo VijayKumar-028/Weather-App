@@ -1,2 +1,0 @@
-bdcbed291dd3a5929e9afad26b96c972
-https://api.openweathermap.org/data/2.5/weather?lat=${s.lat}&lon=${s.lon}&appid=${API_KEY}&units=metric
